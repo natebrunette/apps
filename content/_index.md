@@ -1,8 +1,6 @@
 ---
 title: "Apps"
-draft: false
 ---
 
-## Password Generator
+A list of apps and other projects I'm currently developing and maintaining
 
-Generate a secure password

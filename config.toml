@@ -2,6 +2,7 @@ baseURL = "http://apps.tebru.net/"
 languageCode = "en-us"
 title = "Tebru Corp."
 theme = "ananke"
+disqusShortname = "tebru"
 
 [params]
     custom_css = ["css/app.css"]
