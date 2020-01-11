@@ -1,0 +1,22 @@
+input, label, textarea {
+    display: block;
+}
+
+input, textarea {
+    margin-bottom: 20px;
+    width: 700px;
+}
+
+input {
+    height: 50px;
+    line-height: 50px;
+}
+
+textarea {
+    height: 500px;
+}
+
+button[type="submit"] {
+    float: right;
+    padding: 10px;
+}

@@ -1,0 +1,25 @@
+baseURL = "http://apps.tebru.net/"
+languageCode = "en-us"
+title = "Tebru Corp."
+theme = "ananke"
+
+[params]
+    custom_css = ["css/app.css"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "apps"
+    name = "Apps"
+    url = "/"
+    weight = -110
+
+  [[menu.main]]
+    name = "Privacy Policy"
+    url = "/privacy/"
+    weight = -100
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = -90
